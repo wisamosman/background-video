@@ -31,9 +31,13 @@
     font-size: 20px;
 }
 .q3{
-    width: 100%;
-    height: auto;
+    margin-top: 110px;
 }
 .q4{
-
+text-align: center;
+font-weight: 900;
+}
+.q5{
+text-align: center;
+font-weight: 800;
 }
