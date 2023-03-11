@@ -23,9 +23,14 @@
     font-weight: 700;
     font-size: 20px;
     border: 2px solid red;
+    background-color: blueviolet;
 }
 .nav-link{
-    color: white;
+
     font-weight: 700;
     font-size: 20px;
+}
+.q3{
+    width: 100%;
+    height: auto;
 }
